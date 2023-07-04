@@ -1,4 +1,4 @@
-## audioVisualization
+## audioVisualizer
 
 This project is an audio visualization tool developed in Kotlin. It provides a visual representation of audio data in the form of waveform and spectrogram.
 
